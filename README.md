@@ -1,2 +1,1 @@
-# ACDSP
-APU Certified Data Science Programmer
+# APU Certified Data Science Programmer
