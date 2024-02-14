@@ -1,0 +1,615 @@
+SME_LOAN_ID_NO,GENDER,MARITAL_STATUS,CANDIDATE_INCOME,LOAN_AMOUNT,LOAN_DURATION,LOAN_HISTORY,LOAN_LOCATION,LOAN_APPROVAL_STATUS
+LP001002,Male,Not Married,5849,,360,1,City,Y
+LP001003,Male,Married,4583,128,360,1,Village,N
+LP001005,Male,Married,3000,66,360,1,City,Y
+LP001006,Male,Married,2583,120,360,1,City,Y
+LP001008,Male,Not Married,6000,141,360,1,City,Y
+LP001011,Male,Married,5417,267,360,1,City,Y
+LP001013,Male,Married,2333,95,360,1,City,Y
+LP001014,Male,Married,3036,158,360,0,Town,N
+LP001018,Male,Married,4006,168,360,1,City,Y
+LP001020,Male,Married,12841,349,360,1,Town,N
+LP001024,Male,Married,3200,70,360,1,City,Y
+LP001027,Male,Married,2500,109,360,1,City,Y
+LP001028,Male,Married,3073,200,360,1,City,Y
+LP001029,Male,Not Married,1853,114,360,1,Village,N
+LP001030,Male,Married,1299,17,120,1,City,Y
+LP001032,Male,Not Married,4950,125,360,1,City,Y
+LP001034,Male,Not Married,3596,100,240,,City,Y
+LP001036,Female,Not Married,3510,76,360,0,City,N
+LP001038,Male,Married,4887,133,360,1,Village,N
+LP001041,Male,Married,2600,115,,1,City,Y
+LP001043,Male,Married,7660,104,360,0,City,N
+LP001046,Male,Married,5955,315,360,1,City,Y
+LP001047,Male,Married,2600,116,360,0,Town,N
+LP001050,,Married,3365,112,360,0,Village,N
+LP001052,Male,Married,3717,151,360,,Town,N
+LP001066,Male,Married,9560,191,360,1,Town,Y
+LP001068,Male,Married,2799,122,360,1,Town,Y
+LP001073,Male,Married,4226,110,360,1,City,Y
+LP001086,Male,Not Married,1442,35,360,1,City,N
+LP001087,Female,Not Married,3750,120,360,1,Town,Y
+LP001091,Male,Married,4166,201,360,,City,N
+LP001095,Male,Not Married,3167,74,360,1,City,N
+LP001097,Male,Not Married,4692,106,360,1,Village,N
+LP001098,Male,Married,3500,114,360,1,Town,Y
+LP001100,Male,Not Married,12500,320,360,1,Village,N
+LP001106,Male,Married,2275,,360,1,City,Y
+LP001109,Male,Married,1828,100,,0,City,N
+LP001112,Female,Married,3667,144,360,1,Town,Y
+LP001114,Male,Not Married,4166,184,360,1,City,Y
+LP001116,Male,Not Married,3748,110,360,1,Town,Y
+LP001119,Male,Not Married,3600,80,360,1,City,N
+LP001120,Male,Not Married,1800,47,360,1,City,Y
+LP001123,Male,Married,2400,75,360,,City,Y
+LP001131,Male,Married,3941,134,360,1,Town,Y
+LP001136,Male,Married,4695,96,,1,City,Y
+LP001137,Female,Not Married,3410,88,,1,City,Y
+LP001138,Male,Married,5649,44,360,1,City,Y
+LP001144,Male,Married,5821,144,360,1,City,Y
+LP001146,Female,Married,2645,120,360,0,City,N
+LP001151,Female,Not Married,4000,144,360,1,Town,Y
+LP001155,Female,Married,1928,100,360,1,Town,Y
+LP001157,Female,Not Married,3086,120,360,1,Town,Y
+LP001164,Female,Not Married,4230,112,360,1,Town,N
+LP001179,Male,Married,4616,134,360,1,City,N
+LP001186,Female,Married,11500,286,360,0,City,N
+LP001194,Male,Married,2708,97,360,1,Town,Y
+LP001195,Male,Married,2132,96,360,1,Town,Y
+LP001197,Male,Married,3366,135,360,1,Village,N
+LP001198,Male,Married,8080,180,360,1,City,Y
+LP001199,Male,Married,3357,144,360,1,City,Y
+LP001205,Male,Married,2500,120,360,1,City,Y
+LP001206,Male,Married,3029,99,360,1,City,Y
+LP001207,Male,Married,2609,165,180,0,Village,N
+LP001213,Male,Married,4945,,360,0,Village,N
+LP001222,Female,Not Married,4166,116,360,0,Town,N
+LP001225,Male,Married,5726,258,360,1,Town,N
+LP001228,Male,Not Married,3200,126,180,0,City,N
+LP001233,Male,Married,10750,312,360,1,City,Y
+LP001238,Male,Married,7100,125,60,1,City,Y
+LP001241,Female,Not Married,4300,136,360,0,Town,N
+LP001243,Male,Married,3208,172,360,1,City,Y
+LP001245,Male,Married,1875,97,360,1,Town,Y
+LP001248,Male,Not Married,3500,81,300,1,Town,Y
+LP001250,Male,Married,4755,95,,0,Town,N
+LP001253,Male,Married,5266,187,360,1,Town,Y
+LP001255,Male,Not Married,3750,113,480,1,City,N
+LP001256,Male,Not Married,3750,176,360,1,City,N
+LP001259,Male,Married,1000,110,360,1,City,N
+LP001263,Male,Married,3167,180,300,0,Town,N
+LP001264,Male,Married,3333,130,360,,Town,Y
+LP001265,Female,Not Married,3846,111,360,1,Town,Y
+LP001266,Male,Married,2395,,360,1,Town,Y
+LP001267,Female,Married,1378,167,360,1,City,N
+LP001273,Male,Married,6000,265,360,,Town,N
+LP001275,Male,Married,3988,50,240,1,City,Y
+LP001279,Male,Not Married,2366,136,360,1,Town,Y
+LP001280,Male,Married,3333,99,360,,Town,Y
+LP001282,Male,Married,2500,104,360,1,Town,Y
+LP001289,Male,Not Married,8566,210,360,1,City,Y
+LP001310,Male,Married,5695,175,360,1,Town,Y
+LP001316,Male,Married,2958,131,360,1,Town,Y
+LP001318,Male,Married,6250,188,180,1,Town,Y
+LP001319,Male,Married,3273,81,360,1,City,Y
+LP001322,Male,Not Married,4133,122,360,1,Town,Y
+LP001325,Male,Not Married,3620,25,120,1,Town,Y
+LP001326,Male,Not Married,6782,,360,,City,N
+LP001327,Female,Married,2484,137,360,1,Town,Y
+LP001333,Male,Married,1977,50,360,1,Town,Y
+LP001334,Male,Married,4188,115,180,1,Town,Y
+LP001343,Male,Married,1759,131,360,1,Town,Y
+LP001345,Male,Married,4288,133,180,1,City,Y
+LP001349,Male,Not Married,4843,151,360,1,Town,Y
+LP001350,Male,Married,13650,,360,1,City,Y
+LP001356,Male,Married,4652,,360,1,Town,Y
+LP001357,Male,,3816,160,360,1,City,Y
+LP001367,Male,Married,3052,100,360,1,City,Y
+LP001369,Male,Married,11417,225,360,1,City,Y
+LP001370,Male,Not Married,7333,120,360,1,Village,N
+LP001379,Male,Married,3800,216,360,0,City,N
+LP001384,Male,Married,2071,94,480,1,Town,Y
+LP001385,Male,Not Married,5316,136,360,1,City,Y
+LP001387,Female,Married,2929,139,360,1,Town,Y
+LP001391,Male,Married,3572,152,,0,Village,N
+LP001392,Female,Not Married,7451,,360,1,Town,Y
+LP001398,Male,Not Married,5050,118,360,1,Town,Y
+LP001401,Male,Married,14583,185,180,1,Village,Y
+LP001404,Female,Married,3167,154,360,1,Town,Y
+LP001405,Male,Married,2214,85,360,,City,Y
+LP001421,Male,Married,5568,175,360,1,Village,N
+LP001422,Female,Not Married,10408,259,360,1,City,Y
+LP001426,Male,Married,5667,180,360,1,Village,Y
+LP001430,Female,Not Married,4166,44,360,1,Town,Y
+LP001431,Female,Not Married,2137,137,360,0,Town,Y
+LP001432,Male,Married,2957,81,360,1,Town,Y
+LP001439,Male,Married,4300,194,360,1,Village,Y
+LP001443,Female,Not Married,3692,93,360,,Village,Y
+LP001448,,Married,23803,370,360,1,Village,Y
+LP001449,Male,Not Married,3865,,360,1,Village,Y
+LP001451,Male,Married,10513,160,180,0,City,N
+LP001465,Male,Married,6080,182,360,,Village,N
+LP001469,Male,Not Married,20166,650,480,,City,Y
+LP001473,Male,Not Married,2014,74,360,1,City,Y
+LP001478,Male,Not Married,2718,70,360,1,Town,Y
+LP001482,Male,Married,3459,25,120,1,Town,Y
+LP001487,Male,Not Married,4895,102,360,1,Town,Y
+LP001488,Male,Married,4000,290,360,1,Town,N
+LP001489,Female,Married,4583,84,360,1,Village,N
+LP001491,Male,Married,3316,88,360,1,City,Y
+LP001492,Male,Not Married,14999,242,360,0,Town,N
+LP001493,Male,Married,4200,129,360,1,Village,N
+LP001497,Male,Married,5042,185,360,1,Village,N
+LP001498,Male,Not Married,5417,168,360,1,City,Y
+LP001504,Male,Not Married,6950,175,180,1,Town,Y
+LP001507,Male,Married,2698,122,360,1,Town,Y
+LP001508,Male,Married,11757,187,180,1,City,Y
+LP001514,Female,Married,2330,100,360,1,Town,Y
+LP001516,Female,Married,14866,70,360,1,City,Y
+LP001518,Male,Married,1538,30,360,1,City,Y
+LP001519,Female,Not Married,10000,225,360,1,Village,N
+LP001520,Male,Married,4860,125,360,1,Town,Y
+LP001528,Male,Not Married,6277,118,360,0,Village,N
+LP001529,Male,Married,2577,152,360,1,Village,Y
+LP001531,Male,Not Married,9166,244,360,1,City,N
+LP001532,Male,Married,2281,113,360,1,Village,N
+LP001535,Male,Not Married,3254,50,360,1,City,Y
+LP001536,Male,Married,39999,600,180,0,Town,Y
+LP001541,Male,Married,6000,160,360,,Village,Y
+LP001543,Male,Married,9538,187,360,1,City,Y
+LP001546,Male,Not Married,2980,120,360,1,Village,Y
+LP001552,Male,Married,4583,255,360,1,Town,Y
+LP001560,Male,Married,1863,98,360,1,Town,Y
+LP001562,Male,Married,7933,275,360,1,City,N
+LP001565,Male,Married,3089,121,360,0,Town,N
+LP001570,Male,Married,4167,158,360,1,Village,Y
+LP001572,Male,Married,9323,75,180,1,City,Y
+LP001574,Male,Married,3707,182,,1,Village,Y
+LP001577,Female,Married,4583,112,360,1,Village,N
+LP001578,Male,Married,2439,129,360,1,Village,Y
+LP001579,Male,Not Married,2237,63,480,0,Town,N
+LP001580,Male,Married,8000,200,360,1,Town,Y
+LP001581,Male,Married,1820,95,360,1,Village,Y
+LP001585,,Married,51763,700,300,1,City,Y
+LP001586,Male,Married,3522,81,180,1,Village,N
+LP001594,Male,Married,5708,187,360,1,Town,Y
+LP001603,Male,Married,4344,87,360,1,Town,N
+LP001606,Male,Married,3497,116,360,1,Village,Y
+LP001608,Male,Married,2045,101,360,1,Village,Y
+LP001610,Male,Married,5516,495,360,0,Town,N
+LP001616,Male,Married,3750,116,360,1,Town,Y
+LP001630,Male,Not Married,2333,102,480,0,City,N
+LP001633,Male,Married,6400,180,360,0,City,N
+LP001634,Male,Not Married,1916,67,360,,Village,N
+LP001636,Male,Married,4600,73,180,1,Town,Y
+LP001637,Male,Married,33846,260,360,1,Town,N
+LP001639,Female,Married,3625,108,360,1,Town,Y
+LP001640,Male,Married,39147,120,360,1,Town,Y
+LP001641,Male,Married,2178,66,300,0,Village,N
+LP001643,Male,Married,2383,58,360,,Village,Y
+LP001644,,Married,674,168,360,1,Village,Y
+LP001647,Male,Married,9328,188,180,1,Village,Y
+LP001653,Male,Not Married,4885,48,360,1,Village,Y
+LP001656,Male,Not Married,12000,164,360,1,Town,N
+LP001657,Male,Married,6033,160,360,1,City,N
+LP001658,Male,Not Married,3858,76,360,1,Town,Y
+LP001664,Male,Not Married,4191,120,360,1,Village,Y
+LP001665,Male,Married,3125,170,360,1,Town,N
+LP001666,Male,Not Married,8333,187,360,1,Village,Y
+LP001669,Female,Not Married,1907,120,,1,City,Y
+LP001671,Female,Married,3416,113,360,,Town,Y
+LP001673,Male,Not Married,11000,83,360,1,City,N
+LP001674,Male,Married,2600,90,360,1,Town,Y
+LP001677,Male,Not Married,4923,166,360,0,Town,Y
+LP001682,Male,Married,3992,,180,1,City,N
+LP001688,Male,Married,3500,135,360,1,City,Y
+LP001691,Male,Married,3917,124,360,1,Town,Y
+LP001692,Female,Not Married,4408,120,360,1,Town,Y
+LP001693,Female,Not Married,3244,80,360,1,City,Y
+LP001698,Male,Not Married,3975,55,360,1,Village,Y
+LP001699,Male,Not Married,2479,59,360,1,City,Y
+LP001702,Male,Not Married,3418,127,360,1,Town,N
+LP001708,Female,Not Married,10000,214,360,1,Town,N
+LP001711,Male,Married,3430,128,360,0,Town,N
+LP001713,Male,Married,7787,240,360,1,City,Y
+LP001715,Male,Married,5703,130,360,1,Village,Y
+LP001716,Male,Married,3173,137,360,1,City,Y
+LP001720,Male,Married,3850,100,360,1,Town,Y
+LP001722,Male,Married,150,135,360,1,Village,N
+LP001726,Male,Married,3727,131,360,1,Town,Y
+LP001732,Male,Married,5000,72,360,0,Town,N
+LP001734,Female,Married,4283,127,360,,Town,Y
+LP001736,Male,Married,2221,60,360,0,City,N
+LP001743,Male,Married,4009,116,360,1,Town,Y
+LP001744,Male,Not Married,2971,144,360,1,Town,Y
+LP001749,Male,Married,7578,175,,1,Town,Y
+LP001750,Male,Married,6250,128,360,1,Town,Y
+LP001751,Male,Married,3250,170,360,1,Village,N
+LP001754,Male,Married,4735,138,360,1,City,N
+LP001758,Male,Married,6250,210,360,1,Town,Y
+LP001760,Male,,4758,158,480,1,Town,Y
+LP001761,Male,Not Married,6400,200,360,1,Village,Y
+LP001765,Male,Married,2491,104,360,1,Town,Y
+LP001768,Male,Married,3716,42,180,1,Village,Y
+LP001770,Male,Not Married,3189,120,,1,Village,Y
+LP001776,Female,Not Married,8333,280,360,1,Town,Y
+LP001778,Male,Married,3155,140,360,1,Town,Y
+LP001784,Male,Married,5500,170,360,1,Village,Y
+LP001786,Male,Married,5746,255,360,,City,N
+LP001788,Female,Not Married,3463,122,360,,City,Y
+LP001790,Female,Not Married,3812,112,360,1,Village,Y
+LP001792,Male,Married,3315,96,360,1,Town,Y
+LP001798,Male,Married,5819,120,360,1,Village,Y
+LP001800,Male,Married,2510,140,180,1,City,N
+LP001806,Male,Not Married,2965,155,60,1,City,Y
+LP001807,Male,Married,6250,108,360,1,Village,Y
+LP001811,Male,Married,3406,123,360,1,Town,Y
+LP001813,Male,Not Married,6050,120,180,1,City,N
+LP001814,Male,Married,9703,112,360,1,City,Y
+LP001819,Male,Married,6608,137,180,1,City,Y
+LP001824,Male,Married,2882,123,480,1,Town,Y
+LP001825,Male,Married,1809,90,360,1,City,Y
+LP001835,Male,Married,1668,201,360,0,Town,N
+LP001836,Female,Not Married,3427,138,360,1,City,N
+LP001841,Male,Not Married,2583,104,360,1,Village,Y
+LP001843,Male,Married,2661,279,180,1,Town,Y
+LP001844,Male,Not Married,16250,192,360,0,City,N
+LP001846,Female,Not Married,3083,255,360,1,Village,Y
+LP001849,Male,Not Married,6045,115,360,0,Village,N
+LP001854,Male,Married,5250,94,360,1,City,N
+LP001859,Male,Married,14683,304,360,1,Village,N
+LP001864,Male,Married,4931,128,360,,Town,N
+LP001865,Male,Married,6083,330,360,,City,Y
+LP001868,Male,Not Married,2060,134,360,1,Town,Y
+LP001870,Female,Not Married,3481,155,36,1,Town,N
+LP001871,Female,Not Married,7200,120,360,1,Village,Y
+LP001872,Male,Not Married,5166,128,360,1,Town,Y
+LP001875,Male,Not Married,4095,151,360,1,Village,Y
+LP001877,Male,Married,4708,150,360,1,Town,Y
+LP001882,Male,Married,4333,160,360,0,City,Y
+LP001883,Female,Not Married,3418,135,360,1,Village,N
+LP001884,Female,Not Married,2876,90,360,1,City,Y
+LP001888,Female,Not Married,3237,30,360,1,City,Y
+LP001891,Male,Married,11146,136,360,1,City,Y
+LP001892,Male,Not Married,2833,126,360,1,Village,Y
+LP001894,Male,Married,2620,150,360,1,Town,Y
+LP001896,Male,Married,3900,90,360,1,Town,Y
+LP001900,Male,Married,2750,115,360,1,Town,Y
+LP001903,Male,Married,3993,207,360,1,Town,Y
+LP001904,Male,Married,3103,80,360,1,City,Y
+LP001907,Male,Married,14583,436,360,1,Town,Y
+LP001908,Female,Married,4100,124,360,,Village,Y
+LP001910,Male,Not Married,4053,158,360,0,City,N
+LP001914,Male,Married,3927,112,360,1,Town,Y
+LP001915,Male,Married,2301,78,180,1,City,Y
+LP001917,Female,Not Married,1811,54,360,1,City,Y
+LP001922,Male,Married,20667,,360,1,Village,N
+LP001924,Male,Not Married,3158,89,360,1,Village,Y
+LP001925,Female,Not Married,2600,99,300,1,Town,N
+LP001926,Male,Married,3704,120,360,1,Village,Y
+LP001931,Female,Not Married,4124,115,360,1,Town,Y
+LP001935,Male,Not Married,9508,187,360,1,Village,Y
+LP001936,Male,Married,3075,139,360,1,Village,Y
+LP001938,Male,Married,4400,127,360,0,Town,N
+LP001940,Male,Married,3153,134,360,1,City,Y
+LP001945,Female,Not Married,5417,143,480,0,City,N
+LP001947,Male,Married,2383,172,360,1,Town,Y
+LP001949,Male,Married,4416,110,360,1,City,Y
+LP001953,Male,Married,6875,200,360,1,Town,Y
+LP001954,Female,Married,4666,135,360,1,City,Y
+LP001955,Female,Not Married,5000,151,480,1,Village,N
+LP001963,Male,Married,2014,113,360,1,City,N
+LP001964,Male,Married,1800,93,360,0,City,N
+LP001972,Male,Married,2875,105,360,1,Town,Y
+LP001974,Female,Not Married,5000,132,360,1,Village,Y
+LP001977,Male,Married,1625,96,360,1,City,Y
+LP001978,Male,Not Married,4000,140,360,1,Village,Y
+LP001990,Male,Not Married,2000,,360,1,City,N
+LP001993,Female,Not Married,3762,135,360,1,Village,Y
+LP001994,Female,Not Married,2400,104,360,0,City,N
+LP001996,Male,Not Married,20233,480,360,1,Village,N
+LP001998,Male,Married,7667,185,360,,Village,Y
+LP002002,Female,Not Married,2917,84,360,1,Town,Y
+LP002004,Male,Not Married,2927,111,360,1,Town,Y
+LP002006,Female,Not Married,2507,56,360,1,Village,Y
+LP002008,Male,Married,5746,144,84,,Village,Y
+LP002024,,Married,2473,159,360,1,Village,N
+LP002031,Male,Married,3399,111,180,1,City,Y
+LP002035,Male,Married,3717,120,360,1,Town,Y
+LP002036,Male,Married,2058,88,360,,City,Y
+LP002043,Female,Not Married,3541,112,360,,Town,Y
+LP002050,Male,Married,10000,155,360,1,Village,N
+LP002051,Male,Married,2400,115,360,1,Town,Y
+LP002053,Male,Married,4342,124,360,1,Town,Y
+LP002054,Male,Married,3601,,360,1,Village,Y
+LP002055,Female,Not Married,3166,132,360,,Village,Y
+LP002065,Male,Married,15000,300,360,1,Village,Y
+LP002067,Male,Married,8666,376,360,0,Village,N
+LP002068,Male,Not Married,4917,130,360,0,Village,Y
+LP002082,Male,Married,5818,184,360,1,Town,Y
+LP002086,Female,Married,4333,110,360,1,City,N
+LP002087,Female,Not Married,2500,67,360,1,City,Y
+LP002097,Male,Not Married,4384,117,360,1,City,Y
+LP002098,Male,Not Married,2935,98,360,1,Town,Y
+LP002100,Male,Not Married,2833,71,360,1,City,Y
+LP002101,Male,Married,63337,490,180,1,City,Y
+LP002103,,Married,9833,182,180,1,City,Y
+LP002106,Male,Married,5503,70,,1,Town,Y
+LP002110,Male,Married,5250,160,360,1,Village,Y
+LP002112,Male,Married,2500,176,360,1,Village,Y
+LP002113,Female,Not Married,1830,,360,0,City,N
+LP002114,Female,Not Married,4160,71,360,1,Town,Y
+LP002115,Male,Married,2647,173,360,1,Village,N
+LP002116,Female,Not Married,2378,46,360,1,Village,N
+LP002119,Male,Married,4554,158,360,1,City,Y
+LP002126,Male,Married,3173,74,360,1,Town,Y
+LP002128,Male,Married,2583,125,360,1,Village,Y
+LP002129,Male,Married,2499,160,360,1,Town,Y
+LP002130,Male,Married,3523,152,360,0,Village,N
+LP002131,Male,Married,3083,126,360,1,City,Y
+LP002137,Male,Married,6333,259,360,,Town,Y
+LP002138,Male,Married,2625,187,360,1,Village,Y
+LP002139,Male,Married,9083,228,360,1,Town,Y
+LP002140,Male,Not Married,8750,308,360,1,Village,N
+LP002141,Male,Married,2666,95,360,1,Village,Y
+LP002142,Female,Married,5500,105,360,0,Village,N
+LP002143,Female,Married,2423,130,360,1,Town,Y
+LP002144,Female,Not Married,3813,116,180,1,City,Y
+LP002149,Male,Married,8333,165,360,1,Village,Y
+LP002151,Male,Married,3875,67,360,1,City,N
+LP002158,Male,Married,3000,100,480,0,City,N
+LP002160,Male,Married,5167,200,360,1,Town,Y
+LP002161,Female,Not Married,4723,81,360,1,Town,N
+LP002170,Male,Married,5000,236,360,1,Town,Y
+LP002175,Male,Married,4750,130,360,1,City,Y
+LP002178,Male,Married,3013,95,300,,City,Y
+LP002180,Male,Not Married,6822,141,360,1,Village,Y
+LP002181,Male,Not Married,6216,133,360,1,Village,N
+LP002187,Male,Not Married,2500,96,480,1,Town,N
+LP002188,Male,Not Married,5124,124,,0,Village,N
+LP002190,Male,Married,6325,175,360,1,Town,Y
+LP002191,Male,Married,19730,570,360,1,Village,N
+LP002194,Female,Not Married,15759,55,360,1,Town,Y
+LP002197,Male,Married,5185,155,360,1,Town,Y
+LP002201,Male,Married,9323,380,300,1,Village,Y
+LP002205,Male,Not Married,3062,111,180,0,City,N
+LP002209,Female,Not Married,2764,110,360,1,City,Y
+LP002211,Male,Married,4817,120,180,1,City,Y
+LP002219,Male,Married,8750,130,360,1,Village,Y
+LP002223,Male,Married,4310,130,360,,Town,Y
+LP002224,Male,Not Married,3069,71,480,1,City,N
+LP002225,Male,Married,5391,130,360,1,City,Y
+LP002226,Male,Married,3333,128,360,1,Town,Y
+LP002229,Male,Not Married,5941,296,360,1,Town,Y
+LP002231,Female,Not Married,6000,156,360,1,City,Y
+LP002234,Male,Not Married,7167,128,360,1,City,Y
+LP002236,Male,Married,4566,100,360,1,City,N
+LP002237,Male,Not Married,3667,113,180,1,City,Y
+LP002239,Male,Not Married,2346,132,360,1,Town,Y
+LP002243,Male,Married,3010,,360,0,City,N
+LP002244,Male,Married,2333,136,360,1,City,Y
+LP002250,Male,Married,5488,125,360,1,Village,Y
+LP002255,Male,Not Married,9167,185,360,1,Village,Y
+LP002262,Male,Married,9504,275,360,1,Village,Y
+LP002263,Male,Married,2583,120,360,,City,Y
+LP002265,Male,Married,1993,113,180,1,Town,Y
+LP002266,Male,Married,3100,113,360,1,City,Y
+LP002272,Male,Married,3276,135,360,,Town,Y
+LP002277,Female,Not Married,3180,71,360,0,City,N
+LP002281,Male,Married,3033,95,360,1,City,Y
+LP002284,Male,Not Married,3902,109,360,1,Village,Y
+LP002287,Female,Not Married,1500,103,360,0,Town,N
+LP002288,Male,Married,2889,45,180,0,City,N
+LP002296,Male,Not Married,2755,65,300,1,Village,N
+LP002297,Male,Not Married,2500,103,360,1,Town,Y
+LP002300,Female,Not Married,1963,53,360,1,Town,Y
+LP002301,Female,Not Married,7441,194,360,1,Village,N
+LP002305,Female,Not Married,4547,115,360,1,Town,Y
+LP002308,Male,Married,2167,115,360,1,City,Y
+LP002314,Female,Not Married,2213,66,360,1,Village,Y
+LP002315,Male,Married,8300,152,300,0,Town,N
+LP002317,Male,Married,81000,360,360,0,Village,N
+LP002318,Female,Not Married,3867,62,360,1,Town,N
+LP002319,Male,Married,6256,160,360,,City,Y
+LP002328,Male,Married,6096,218,360,0,Village,N
+LP002332,Male,Married,2253,110,360,1,Village,Y
+LP002335,Female,Married,2149,178,360,0,Town,N
+LP002337,Female,Not Married,2995,60,360,1,City,Y
+LP002341,Female,Not Married,2600,160,360,1,City,N
+LP002342,Male,Married,1600,239,360,1,City,N
+LP002345,Male,Married,1025,112,360,1,Village,Y
+LP002347,Male,Married,3246,138,360,1,Town,Y
+LP002348,Male,Married,5829,138,360,1,Village,Y
+LP002357,Female,Not Married,2720,80,,0,City,N
+LP002361,Male,Married,1820,100,360,1,City,Y
+LP002362,Male,Married,7250,110,,0,City,N
+LP002364,Male,Married,14880,96,360,1,Town,Y
+LP002366,Male,Married,2666,121,360,1,Village,Y
+LP002367,Female,Not Married,4606,81,360,1,Village,N
+LP002368,Male,Married,5935,133,360,1,Town,Y
+LP002369,Male,Married,2920,87,360,1,Village,Y
+LP002370,Male,Not Married,2717,60,180,1,City,Y
+LP002377,Female,Not Married,8624,150,360,1,Town,Y
+LP002379,Male,Not Married,6500,105,360,0,Village,N
+LP002386,Male,Not Married,12876,405,360,1,Town,Y
+LP002387,Male,Married,2425,143,360,1,Town,Y
+LP002390,Male,Not Married,3750,100,360,1,City,Y
+LP002393,Female,,10047,,240,1,Town,Y
+LP002398,Male,Not Married,1926,50,360,1,Town,Y
+LP002401,Male,Married,2213,,360,1,City,Y
+LP002403,Male,Not Married,10416,187,360,0,City,N
+LP002407,Female,Married,7142,138,360,1,Village,Y
+LP002408,Male,Not Married,3660,187,360,1,Town,Y
+LP002409,Male,Married,7901,180,360,1,Village,Y
+LP002418,Male,Not Married,4707,148,360,1,Town,Y
+LP002422,Male,Not Married,37719,152,360,1,Town,Y
+LP002424,Male,Married,7333,175,300,,Village,Y
+LP002429,Male,Married,3466,130,360,1,Village,Y
+LP002434,Male,Married,4652,110,360,1,Village,Y
+LP002435,Male,Married,3539,55,360,1,Village,N
+LP002443,Male,Married,3340,150,360,0,Village,N
+LP002444,Male,Not Married,2769,190,360,,Town,N
+LP002446,Male,Married,2309,125,360,0,Village,N
+LP002447,Male,Married,1958,60,300,,City,Y
+LP002448,Male,Married,3948,149,360,0,Village,N
+LP002449,Male,Married,2483,90,180,0,Village,Y
+LP002453,Male,Not Married,7085,84,360,1,Town,Y
+LP002455,Male,Married,3859,96,360,1,Town,Y
+LP002459,Male,Married,4301,118,360,1,City,Y
+LP002467,Male,Married,3708,173,360,1,City,N
+LP002472,Male,Not Married,4354,136,360,1,Village,Y
+LP002473,Male,Married,8334,160,360,1,Town,N
+LP002478,,Married,2083,160,360,,Town,Y
+LP002484,Male,Married,7740,128,180,1,City,Y
+LP002487,Male,Married,3015,153,360,1,Village,Y
+LP002489,Female,Not Married,5191,132,360,1,Town,Y
+LP002493,Male,Not Married,4166,98,360,0,Town,N
+LP002494,Male,Not Married,6000,140,360,1,Village,Y
+LP002500,Male,Married,2947,70,180,0,City,N
+LP002501,,Married,16692,110,360,1,Town,Y
+LP002502,Female,Married,210,98,360,1,Town,Y
+LP002505,Male,Married,4333,110,360,1,City,N
+LP002515,Male,Married,3450,162,360,1,Town,Y
+LP002517,Male,Married,2653,113,180,0,Village,N
+LP002519,Male,Married,4691,100,360,1,Town,Y
+LP002522,Female,Not Married,2500,93,360,,City,Y
+LP002524,Male,Not Married,5532,162,360,1,Village,Y
+LP002527,Male,Married,16525,150,360,1,Village,Y
+LP002529,Male,Married,6700,230,300,1,Town,Y
+LP002530,,Married,2873,132,360,0,Town,N
+LP002531,Male,Married,16667,86,360,1,Town,Y
+LP002533,Male,Married,2947,,360,1,City,N
+LP002534,Female,Not Married,4350,154,360,1,Village,Y
+LP002536,Male,Married,3095,113,360,1,Village,Y
+LP002537,Male,Married,2083,128,360,1,Town,Y
+LP002541,Male,Married,10833,234,360,1,Town,Y
+LP002543,Male,Married,8333,246,360,1,Town,Y
+LP002544,Male,Married,1958,131,360,1,Village,Y
+LP002545,Male,Not Married,3547,80,360,0,Village,N
+LP002547,Male,Married,18333,500,360,1,City,N
+LP002555,Male,Married,4583,160,360,1,Town,Y
+LP002556,Male,Not Married,2435,75,360,1,City,N
+LP002560,Male,Not Married,2699,96,360,,Town,Y
+LP002562,Male,Married,5333,186,360,,City,Y
+LP002571,Male,Not Married,3691,110,360,1,Village,Y
+LP002582,Female,Not Married,17263,225,360,1,Town,Y
+LP002585,Male,Married,3597,119,360,0,Village,N
+LP002586,Female,Married,3326,105,84,1,Town,Y
+LP002587,Male,Married,2600,107,360,1,Village,Y
+LP002588,Male,Married,4625,111,12,,City,Y
+LP002600,Male,Married,2895,95,360,1,Town,Y
+LP002602,Male,Not Married,6283,209,360,0,Village,N
+LP002603,Female,Not Married,645,113,480,1,Village,Y
+LP002606,Female,Not Married,3159,100,360,1,Town,Y
+LP002615,Male,Married,4865,208,360,1,Town,Y
+LP002618,Male,Married,4050,138,360,,Village,N
+LP002619,Male,Married,3814,124,300,1,Town,Y
+LP002622,Male,Married,3510,243,360,1,Village,Y
+LP002624,Male,Married,20833,480,360,,City,Y
+LP002625,,Not Married,3583,96,360,1,City,N
+LP002626,Male,Married,2479,188,360,1,City,Y
+LP002634,Female,Not Married,13262,40,360,1,City,Y
+LP002637,Male,Not Married,3598,100,360,1,Village,N
+LP002640,Male,Married,6065,250,360,1,Town,Y
+LP002643,Male,Married,3283,148,360,1,City,Y
+LP002648,Male,Married,2130,70,180,1,Town,N
+LP002652,Male,Not Married,5815,311,360,1,Village,N
+LP002659,Male,Married,3466,150,360,1,Village,Y
+LP002670,Female,Married,2031,113,480,1,Town,Y
+LP002682,Male,Married,3074,123,360,0,Town,N
+LP002683,Male,Not Married,4683,185,360,1,Town,N
+LP002684,Female,Not Married,3400,95,360,1,Village,N
+LP002689,Male,Married,2192,45,360,1,Town,Y
+LP002690,Male,Not Married,2500,55,360,1,Town,Y
+LP002692,Male,Married,5677,100,360,1,Village,Y
+LP002693,Male,Married,7948,480,360,1,Village,Y
+LP002697,Male,Not Married,4680,,360,1,Town,N
+LP002699,Male,Married,17500,400,360,1,Village,Y
+LP002705,Male,Married,3775,110,360,1,Town,Y
+LP002706,Male,Married,5285,161,360,0,Town,Y
+LP002714,Male,Not Married,2679,94,360,1,Town,Y
+LP002716,Male,Not Married,6783,130,360,1,Town,Y
+LP002717,Male,Married,1025,216,360,,Village,Y
+LP002720,Male,Married,4281,100,360,1,City,Y
+LP002723,Male,Not Married,3588,110,360,0,Village,N
+LP002729,Male,Not Married,11250,196,360,,Town,N
+LP002731,Female,Not Married,18165,125,360,1,City,Y
+LP002732,Male,Not Married,2550,126,360,1,Village,Y
+LP002734,Male,Married,6133,324,360,1,City,Y
+LP002738,Male,Not Married,3617,107,360,1,Town,Y
+LP002739,Male,Married,2917,66,360,1,Village,N
+LP002740,Male,Married,6417,157,180,1,Village,Y
+LP002741,Female,Married,4608,140,180,1,Town,Y
+LP002743,Female,Not Married,2138,99,360,0,Town,N
+LP002753,Female,Not Married,3652,95,360,1,Town,Y
+LP002755,Male,Married,2239,128,360,1,City,Y
+LP002757,Female,Married,3017,102,360,,Town,Y
+LP002767,Male,Married,2768,155,360,1,Village,Y
+LP002768,Male,Not Married,3358,80,36,1,Town,N
+LP002772,Male,Not Married,2526,145,360,1,Village,Y
+LP002776,Female,Not Married,5000,103,360,0,Town,N
+LP002777,Male,Married,2785,110,360,1,Village,Y
+LP002778,Male,Married,6633,,360,0,Village,N
+LP002784,Male,Married,2492,,360,1,Village,Y
+LP002785,Male,Married,3333,158,360,1,City,Y
+LP002788,Male,Married,2454,181,360,0,City,N
+LP002789,Male,Married,3593,132,180,0,Village,N
+LP002792,Male,Married,5468,26,360,1,Town,Y
+LP002794,Female,Not Married,2667,84,360,,City,Y
+LP002795,Male,Married,10139,260,360,1,Town,Y
+LP002798,Male,Married,3887,162,360,1,Town,Y
+LP002804,Female,Married,4180,182,360,1,Town,Y
+LP002807,Male,Married,3675,108,360,1,Town,Y
+LP002813,Female,Married,19484,600,360,1,Town,Y
+LP002820,Male,Married,5923,211,360,1,Village,Y
+LP002821,Male,Not Married,5800,132,360,1,Town,Y
+LP002832,Male,Married,8799,258,360,0,City,N
+LP002833,Male,Married,4467,120,360,,Village,Y
+LP002836,Male,Not Married,3333,70,360,1,City,Y
+LP002837,Male,Married,3400,123,360,0,Village,N
+LP002840,Female,Not Married,2378,9,360,1,City,N
+LP002841,Male,Married,3166,104,360,0,City,N
+LP002842,Male,Married,3417,186,360,1,City,Y
+LP002847,Male,Married,5116,165,360,0,City,N
+LP002855,Male,Married,16666,275,360,1,City,Y
+LP002862,Male,Married,6125,187,480,1,Town,N
+LP002863,Male,Married,6406,150,360,1,Town,N
+LP002868,Male,Married,3159,108,84,1,City,Y
+LP002872,,Married,3087,136,360,0,Town,N
+LP002874,Male,Not Married,3229,110,360,1,City,Y
+LP002877,Male,Married,1782,107,360,1,Village,Y
+LP002888,Male,Not Married,3182,161,360,1,City,Y
+LP002892,Male,Married,6540,205,360,1,Town,Y
+LP002893,Male,Not Married,1836,90,360,1,City,N
+LP002894,Female,Married,3166,36,360,1,Town,Y
+LP002898,Male,Married,1880,61,360,,Village,N
+LP002911,Male,Married,2787,146,360,0,Village,N
+LP002912,Male,Married,4283,172,84,1,Village,N
+LP002916,Male,Married,2297,104,360,1,City,Y
+LP002917,Female,Not Married,2165,70,360,1,Town,Y
+LP002925,,Not Married,4750,94,360,1,Town,Y
+LP002926,Male,Married,2726,106,360,0,Town,N
+LP002928,Male,Married,3000,56,180,1,Town,Y
+LP002931,Male,Married,6000,205,240,1,Town,N
+LP002933,,Not Married,9357,292,360,1,Town,Y
+LP002936,Male,Married,3859,142,180,1,Village,Y
+LP002938,Male,Married,16120,260,360,1,City,Y
+LP002940,Male,Not Married,3833,110,360,1,Village,Y
+LP002941,Male,Married,6383,187,360,1,Village,N
+LP002943,Male,Not Married,2987,88,360,0,Town,N
+LP002945,Male,Married,9963,180,360,1,Village,Y
+LP002948,Male,Married,5780,192,360,1,City,Y
+LP002949,Female,Not Married,416,350,180,,City,N
+LP002950,Male,Married,2894,155,360,1,Village,Y
+LP002953,Male,Married,5703,128,360,1,City,Y
+LP002958,Male,Not Married,3676,172,360,1,Village,Y
+LP002959,Female,Married,12000,496,360,1,Town,Y
+LP002960,Male,Married,2400,,180,1,City,N
+LP002961,Male,Married,3400,173,360,1,Town,Y
+LP002964,Male,Married,3987,157,360,1,Village,Y
+LP002974,Male,Married,3232,108,360,1,Village,Y
+LP002978,Female,Not Married,2900,71,360,1,Village,Y
+LP002979,Male,Married,4106,40,180,1,Village,Y
+LP002983,Male,Married,8072,253,360,1,City,Y
+LP002984,Male,Married,7583,187,360,1,City,Y
+LP002990,Female,Not Married,4583,133,360,0,Town,N
