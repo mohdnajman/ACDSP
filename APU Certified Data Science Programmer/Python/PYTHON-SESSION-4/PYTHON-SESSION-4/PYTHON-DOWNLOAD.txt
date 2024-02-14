@@ -1,0 +1,27 @@
+https://www.anaconda.com/download
+
+Windows
+Python 3.10
+
+Click the link -> 64-Bit Graphical Installer (786 MB)
+--------------------------------------------------
+You may run Python program in one of the modes:
+
+Interactive mode
+Script mode
+
+To enter into Python console,
+
+3)Program>Python 3.8(32-bit)
+>>> 25+25
+>>> 50
+
+
+After installation,
+Click Anaconda Navigator.
+
+Click Launch on the web-based on Jupyter Ide or
+
+or 
+Click Launch on the Spyder 5 version Ide
+ 
